@@ -1,4 +1,4 @@
-# Aula2_PYTHON80
+# PYTHON80
 
 ### Linguagens de programação
 ### baixo nível
